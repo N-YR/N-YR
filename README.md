@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Nam YoonRok. 👋
 
+안녕하세요, 현재 연세대학교 미래캠퍼스 경제학과에 재학 중인 남윤록입니다.
 <!--
 **N-YR/N-YR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
